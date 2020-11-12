@@ -15,10 +15,10 @@
   "minimum-stability": "dev",
   "autoload": {
     "psr-4": {
-      "AliPay\\": "src/Pay"
+      "AliPay\\": "src/pay"
     },
     "classmap": [
-      "src/Sms"
+      "src/sms"
     ]
   }
 }
